@@ -15,7 +15,7 @@ provider "azurerm" {
 }
 
 module "resource_group" {
-  source = "D:\\Project\\Test\resource_group"
+  source = "D:/Project/Test/resource_group"
 }
 
 # module "storage_account" {
