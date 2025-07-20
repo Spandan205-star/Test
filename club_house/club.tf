@@ -17,7 +17,7 @@ provider "azurerm" {
 }
 
 module "resource_group" {
-  source = "C:/DevOpsInsiders/Batch17/azure-devsecops-batch-17/CodeSamples/Terraform/Class4/resource_group"
+  source = "D:\\Project\\Test\\resource_groupD:\\Project\\Test\\resource_group"
 }
 
 # module "storage_account" {
